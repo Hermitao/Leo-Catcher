@@ -1,2 +1,2 @@
 # leo-catcher
-The best game in the universe, consisting of catchin Leo with a spoon.
+The best game in the universe, consisting of catching Leo with a spoon.
